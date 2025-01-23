@@ -6,14 +6,14 @@
    Open your terminal and clone the repository to your local machine using the following command:
 
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/ahsan-dev-679/task-fraunhofer.git>
    ```
 
 2. **Navigate to the Project Folder:**
    Move into the folder containing the cloned project:
 
    ```bash
-   cd <repository-folder-name>
+   cd <FRAUNHOFER>
    ```
 
 3. **Install Node.js and TypeScript:**
