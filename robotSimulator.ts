@@ -70,7 +70,7 @@ class Robot {
           this.rotateRight();
           break;
         default:
-          throw new Error(`Unknown command: ${command}`);
+          throw new Error(`Commadn Unknown: ${command}`);
       }
     }
   }
